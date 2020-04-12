@@ -1,0 +1,26 @@
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.dll
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.Data.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.Graphviz.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\QuickGraph.Serialization.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\System.Collections.Immutable.xml
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\lab4.csproj.GenerateResource.Cache
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\НУЛП\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\САПР\4 курс 1 семестр\VII\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\САПР\4 курс 1 семестр\VII\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\САПР\4 курс 1 семестр\VII\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\САПР\4 курс 1 семестр\VII\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\САПР\4 курс 1 семестр\VII\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\САПР\4 курс 1 семестр\VII\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\САПР\4 курс 1 семестр\VII\Дискретні моделі в САПР\Lab4\Lab_4\WindowsFormsApplication5\obj\Debug\lab4.csproj.GenerateResource.Cache
